@@ -12,3 +12,5 @@ export default function NavBar() {
         </nav>
     )
 }
+
+// Watch out that the navbar changes when I scroll down the page past the opening section
