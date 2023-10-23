@@ -14,3 +14,4 @@ export default function NavBar() {
 }
 
 // Watch out that the navbar changes when I scroll down the page past the opening section
+// The navbar collapse for a smaller screen
