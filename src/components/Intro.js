@@ -4,7 +4,7 @@ export default function Intro() {
         // Will want to include a loading bar for the page as well, since it will take a second to load the animations
         <div>
             <p>Hi, my name is Michael Hughes.</p>
-            <p>I'm a Full-Stack Engineer</p>
+            <p>I'm a Full-Stack Web Developer</p>
         </div>
     )
 }
