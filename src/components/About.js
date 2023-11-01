@@ -9,3 +9,7 @@ export default function About() {
         </div>  
     )
 }
+
+// The About section will have a brief blurb about myself, and then list my skills.
+// Front End, Back End, Design Tools
+// Look to Josh Portfolio to get started
