@@ -10,9 +10,9 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Intro />
+      {/* <Intro /> */}
       <About />
-      <Skills />
+      {/* Projects will go here, under the about section */}
       <Contact />
       <Footer />
     </div>

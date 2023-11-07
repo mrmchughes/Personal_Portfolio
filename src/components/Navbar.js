@@ -97,3 +97,5 @@ export default function Navbar() {
 
 // Will need to add local links to navigate to each section on the page 
 // I believe those are with #
+
+// Will probably want to change up the colors and stuff 
