@@ -22,15 +22,10 @@ export default function Contact() {
                     Reach out to me on social media:
                 </Typography>
                 <Box>
-                    <a>Github Icon Link to my profile here</a>
-                    <a>LinkedIn Icon Link to my profile here</a>
+                    <a href='https://github.com/mrmchughes'>Github Icon Link to my profile here</a>
+                    <a href='https://www.linkedin.com/in/mhughes27'>LinkedIn Icon Link to my profile here</a>
                 </Box>
             </Box>
-            {/* <Typography variant='p'>Reach me on social media </Typography>
-
-            <Typography variant='p'>Phone: 804-930-2399</Typography>
-            <Typography variant='p'>Email: mrmchughes27@gmail.com</Typography>
-            <Typography variant='p'>LinkedIn: https://www.linkedin.com/in/mhughes27</Typography> */}
         </Box>
     );
 }
